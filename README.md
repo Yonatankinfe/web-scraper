@@ -13,8 +13,8 @@ A Python project that scrapes SMM panel service data from multiple websites, sto
 ```bash
 git clone https://github.com/your-username/web-scraper-to-mysql.git
 cd web-scraper-to-mysql
-
-## Python Dependencies
+```bash
+# Python Dependencies
 Include the following dependencies in your requirements.txt file to ensure users can easily set up the environment:
 + requests
 + beautifulsoup4
