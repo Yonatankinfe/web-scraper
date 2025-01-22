@@ -1,4 +1,4 @@
-# web-scraper-to-mysql
+# web-scraper
 A Python project that scrapes SMM panel service data from multiple websites, stores the information in a MySQL database, and exports the results to a CSV file. This tool is helpful for analyzing services from platforms like LikesOutlet, GodOfPanel, Followiz, and SMMBind.
 
 ## Description
